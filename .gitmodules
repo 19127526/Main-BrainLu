@@ -1,0 +1,8 @@
+[submodule "Be-BrainLu"]
+	path = Be-BrainLu
+	url = https://github.com/19127526/Be-BrainLu.git
+	branch = prod
+[submodule "Fe-BrainLu"]
+	path = Fe-BrainLu
+	url = https://github.com/19127526/Fe-BrainLu.git
+	branch = prod
